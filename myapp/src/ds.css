@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    font-weight: 400;
+}
+.test{
+    color: rgb(111, 111, 111);
+    background-color: aquamarine;
+    padding: 40px;
+    border-radius: 20px;
+}
+.task{
+    display: flex;
+    width: 40ch;
+    background-color: blueviolet;
+}
